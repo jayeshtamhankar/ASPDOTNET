@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TatyaVinchu\\Desktop\\Clixico SoftTech\\MyWebApplication\\MyWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{211A8E51-9611-4377-A9C9-736DC1834058}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\tatyavinchu\\desktop\\clixico softtech\\mywebapplication\\mywebapplication\\mywebapplication\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{211A8E51-9611-4377-A9C9-736DC1834058}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211A8E51-9611-4377-A9C9-736DC1834058}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\tatyavinchu\\desktop\\clixico softtech\\mywebapplication\\mywebapplication\\mywebapplication\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{211A8E51-9611-4377-A9C9-736DC1834058}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211A8E51-9611-4377-A9C9-736DC1834058}|MyWebApplication\\MyWebApplication.csproj|c:\\users\\tatyavinchu\\desktop\\clixico softtech\\mywebapplication\\mywebapplication\\mywebapplication\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{211A8E51-9611-4377-A9C9-736DC1834058}|MyWebApplication\\MyWebApplication.csproj|solutionrelative:mywebapplication\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\TatyaVinchu\\Desktop\\Clixico SoftTech\\MyWebApplication\\MyWebApplication\\MyWebApplication\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "MyWebApplication\\AboutUs.aspx",
+              "ToolTip": "C:\\Users\\TatyaVinchu\\Desktop\\Clixico SoftTech\\MyWebApplication\\MyWebApplication\\MyWebApplication\\AboutUs.aspx",
+              "RelativeToolTip": "MyWebApplication\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T06:50:26.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactUs.aspx",
+              "DocumentMoniker": "C:\\Users\\TatyaVinchu\\Desktop\\Clixico SoftTech\\MyWebApplication\\MyWebApplication\\MyWebApplication\\ContactUs.aspx",
+              "RelativeDocumentMoniker": "MyWebApplication\\ContactUs.aspx",
+              "ToolTip": "C:\\Users\\TatyaVinchu\\Desktop\\Clixico SoftTech\\MyWebApplication\\MyWebApplication\\MyWebApplication\\ContactUs.aspx",
+              "RelativeToolTip": "MyWebApplication\\ContactUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T06:44:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\TatyaVinchu\\Desktop\\Clixico SoftTech\\MyWebApplication\\MyWebApplication\\MyWebApplication\\Home.aspx",
+              "RelativeDocumentMoniker": "MyWebApplication\\Home.aspx",
+              "ToolTip": "C:\\Users\\TatyaVinchu\\Desktop\\Clixico SoftTech\\MyWebApplication\\MyWebApplication\\MyWebApplication\\Home.aspx",
+              "RelativeToolTip": "MyWebApplication\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T05:22:59.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
