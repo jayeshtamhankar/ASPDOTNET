@@ -21,6 +21,29 @@
         <h1>This Is Home Page</h1>
     </div>
 
+    <form id="form1" runat="server">
+
+
+        <div class="aspInputs">
+            <h1>ASP Inputs</h1>
+
+            <asp:Label ID="Label1" runat="server" Text="Label" >Text</asp:Label>  
+            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>  
+            <asp:Button ID="Button1" runat="server" Text="Submit"/>  
+        </div>
+
+        <div class="htmlInputs">
+            <h1>HTML Inputs</h1>
+
+            <label>username</label>
+            <input type="text" placeholder="username"/>
+            <label>username</label>
+            <input type="password" placeholder="password"/>
+
+            <input type="submit" value="Submit" />
+        </div>
+    </form>
+
     <div class="headings">
         <h1>This Is Heading H1</h1>
         <h2>This Is Heading H2</h2>
